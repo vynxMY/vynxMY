@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**vynxMY/vynxMY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+/**
+ * # Hi there, I'm vynxMY 👋
+ *
+ * Welcome to my GitHub profile! I'm passionate about coding, open-source, and exploring new technologies.
+ *
+ * ## 🔭 Current Projects
+ * - [See all my repositories](https://github.com/vynxMY?tab=repositories)
+ *
+ * ## 🌱 I'm currently learning
+ * - Advanced JavaScript/TypeScript
+ * - Full-stack development
+ * - Learning more about AI
+ *
+ * ## 📫 How to reach me
+ * - GitHub: [vynxMY](https://github.com/vynxMY)
+ *
+ * ## ⚡ Fun facts
+ * - I love a good challenge and collaborating on interesting projects!
+ *
+ * ![vynxMY's GitHub stats](https://github-readme-stats.vercel.app/api?username=vynxMY&show_icons=true&theme=github_dark)
+ */
