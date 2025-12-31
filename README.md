@@ -1,4 +1,4 @@
- * # Hi there, I'm vynxMY 👋
+# Hi there, I'm vynxMY 👋
  *
  * Welcome to my GitHub profile! I'm passionate about coding, open-source, and exploring new technologies.
  *
