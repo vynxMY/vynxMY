@@ -1,4 +1,3 @@
-/**
  * # Hi there, I'm vynxMY 👋
  *
  * Welcome to my GitHub profile! I'm passionate about coding, open-source, and exploring new technologies.
@@ -16,6 +15,3 @@
  *
  * ## ⚡ Fun facts
  * - I love a good challenge and collaborating on interesting projects!
- *
- * ![vynxMY's GitHub stats](https://github-readme-stats.vercel.app/api?username=vynxMY&show_icons=true&theme=github_dark)
- */
